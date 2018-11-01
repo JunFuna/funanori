@@ -6,10 +6,11 @@ def main():
 
 
 def max(a, b):
+    print("asdf")
     if a < b:
         return b
     else:
-        return
+        return a
 
 
 if __name__ == '__main__':
